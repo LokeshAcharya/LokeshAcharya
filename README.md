@@ -16,7 +16,7 @@
 
 ## 🛠️ Current Projects & Labs
 - **[Wazuh Home Lab](https://medium.com/@lokeshacharya/building-a-home-soc-lab-with-wazuh-c088af84ac95)** – Centralized logging, rule tuning, and alert correlation  
-- **[Windows Event Log Deep Dive]([link-to-your-blog-post](https://medium.com/@lokeshacharya/windows-event-logging-explained-a-soc-analysts-guide-to-log-analysis-24333751ec9b))** – Detecting suspicious activity via native Windows telemetry  
+- **[Windows Event Log Deep Dive](https://medium.com/@lokeshacharya/windows-event-logging-explained-a-soc-analysts-guide-to-log-analysis-24333751ec9b)** – Detecting suspicious activity via native Windows telemetry  
 
 ---
 
