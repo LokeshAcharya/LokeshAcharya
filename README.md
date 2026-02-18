@@ -34,7 +34,7 @@
 ### 📈 Learning in Public
 
 - 🎯 **Target Certs**: CompTIA Security+ • Blue Team Level 1 (BTL1)
-- 🧪 **Active Labs**: [TryHackMe: SOC Level 1](https://tryhackme.com/p/0xInverto) • [CyberDefenders](https://cyberdefenders.org/p/0xInverto/)
+- 🧪 **Active Labs**: [TryHackMe](https://tryhackme.com/p/0xInverto) • [CyberDefenders](https://cyberdefenders.org/p/0xInverto/)
 - 📚 **Current Focus**: MITRE ATT&CK mapping • SIEM query optimization • IR runbooks
 
 ---
